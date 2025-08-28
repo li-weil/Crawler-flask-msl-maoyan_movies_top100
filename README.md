@@ -1,0 +1,2 @@
+# Crawler-flask-msl-maoyan_movies_top100
+将猫眼top100电影的数据存入mysql，在flask框架下实现数据库增删改查
